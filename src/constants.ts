@@ -4,7 +4,7 @@ export const DEMO_PRODUCTS: Product[] = [
   {
     id: '1',
     name: 'Classic Black T-Shirt',
-    price: 15,
+    price: 450,
     category: 'Classic',
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
     colors: ['Black', 'Dark Gray'],
@@ -15,7 +15,7 @@ export const DEMO_PRODUCTS: Product[] = [
   {
     id: '2',
     name: 'White Oversized T-Shirt',
-    price: 20,
+    price: 550,
     category: 'Oversized',
     sizes: ['M', 'L', 'XL'],
     colors: ['White', 'Off-White'],
@@ -26,7 +26,7 @@ export const DEMO_PRODUCTS: Product[] = [
   {
     id: '3',
     name: 'Graphic Streetwear Tee',
-    price: 25,
+    price: 650,
     category: 'Graphic',
     sizes: ['S', 'M', 'L', 'XL'],
     colors: ['Black', 'Navy'],
@@ -37,7 +37,7 @@ export const DEMO_PRODUCTS: Product[] = [
   {
     id: '4',
     name: 'Couple T-Shirt Set',
-    price: 40,
+    price: 700,
     category: 'Couple',
     sizes: ['S', 'M', 'L', 'XL'],
     colors: ['Pink', 'Blue', 'White'],
@@ -48,7 +48,7 @@ export const DEMO_PRODUCTS: Product[] = [
   {
     id: '5',
     name: 'Premium Cotton T-Shirt',
-    price: 30,
+    price: 500,
     category: 'Premium',
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
     colors: ['Royal Blue', 'Forest Green', 'Burgundy'],
@@ -59,7 +59,7 @@ export const DEMO_PRODUCTS: Product[] = [
   {
     id: '6',
     name: 'Custom Print T-Shirt',
-    price: 18,
+    price: 800,
     category: 'Custom',
     sizes: ['S', 'M', 'L', 'XL', 'XXL'],
     colors: ['Custom Color'],
